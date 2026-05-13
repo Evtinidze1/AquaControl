@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AquaControl.BLL/AquaControl.BLL.csproj" />
+  <Project Path="AquaControl.Common/AquaControl.Common.csproj" />
+  <Project Path="AquaControl.DAL/AquaControl.DAL.csproj" />
+  <Project Path="AquaControl.UI/AquaControl.UI.csproj" />
+</Solution>
